@@ -1,0 +1,4 @@
+name,type,comment
+d,date,
+uid,varchar,
+item_id,varchar,
